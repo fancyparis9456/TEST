@@ -1,0 +1,18 @@
+{
+  "name": "fancy",
+  "version": "1.0.0",
+  "description": "this is a demo",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^25.2.3",
+    "swagger-ui-express": "^4.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "fancy <fancyparis9456@gmail.com>",
+  "license": "ISC",
+  "type": "commonjs"
+}
